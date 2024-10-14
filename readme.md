@@ -39,12 +39,7 @@ Serve data in JSON format.
 </p>
 <b>Postman Collections Link</b>: <a href="https://www.postman.com/mission-geoscientist-3256618/newsaggregrator/collection/2vej9dm/deepklarity?action=share&creator=36276051">Click here!</a>
 
-<img width="953" alt="image" src="https://github.com/user-attachments/assets/a65baf8f-b9bc-4b59-9adc-bc359147052f">
-
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/1134bd8d-0fbb-4059-a02d-77cea710d4d1">
-
-<img width="956" alt="image" src="https://github.com/user-attachments/assets/a04a8440-c0a3-47bc-a0fc-1c108e402015">
-
-<img width="958" alt="image" src="https://github.com/user-attachments/assets/9a39185e-1c8a-4b08-b135-7669204650c4">
-
-
+![Screenshot 2024-10-10 201053](https://github.com/user-attachments/assets/e9bb26ba-27fe-4542-9284-d91e680a7683)
+![Screenshot 2024-10-10 201338](https://github.com/user-attachments/assets/492c68bd-c553-49d2-873e-336b6f49b132)
+![Screenshot 2024-10-10 201133](https://github.com/user-attachments/assets/35dfbf15-508a-47dd-9345-5f9ac3ec63d7)
+![Screenshot 2024-10-14 172325](https://github.com/user-attachments/assets/9476ef3b-334d-4956-a351-262d152717b3)

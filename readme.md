@@ -38,9 +38,13 @@ Output:
 Serve data in JSON format.
 </p>
 <b>Postman Collections Link</b>: <a href="https://www.postman.com/mission-geoscientist-3256618/newsaggregrator/collection/2vej9dm/deepklarity?action=share&creator=36276051">Click here!</a>
+
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/a65baf8f-b9bc-4b59-9adc-bc359147052f">
+
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/1134bd8d-0fbb-4059-a02d-77cea710d4d1">
+
 <img width="956" alt="image" src="https://github.com/user-attachments/assets/a04a8440-c0a3-47bc-a0fc-1c108e402015">
+
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/9a39185e-1c8a-4b08-b135-7669204650c4">
 
 
